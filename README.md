@@ -1,2 +1,4 @@
 # DevOps-for-the-Enterprise
 How to build cross-functional autonomous teams in large Enterprises
+
+Many challenges of an organization's DevOps journey are not neccessarily technology related. 
